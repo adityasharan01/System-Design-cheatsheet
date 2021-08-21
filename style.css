@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+* {
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Roboto' sans-serif;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.nav {
+  background-color: #6ec021;
+  width: 100%;
+  text-align: center;
+  height: 80px;
+}
+/* ------------------------ */
+.footer {
+  height: 50px;
+  width: 15rem;
+  text-align: center;
+  position: relative;
+  margin-top: 70px;
+  background-color: #8ea19a;
+}
+/* ------------------------ */
+
+#output {
+  border: 1px solid black;
+  width: 50rem;
+  height: 10rem;
+  font-size: 2rem;
+}
+.btn {
+  margin: 10px;
+  padding: 10px;
+  height: 30px;
+  width: 150px;
+  border: 3px solid #6ee7b7;
+  border-radius: 12px;
+  background-color: white;
+  padding-bottom: 25px;
+  margin-left: 15rem;
+}
+.btn:hover {
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+#txt-input {
+  border: 1px solid black;
+  width: 100%;
+  height: 150px;
+  font-size: 2rem;
+}
