@@ -61,7 +61,7 @@
   <img src="http://lethain.com/static/blog/intro_arch/load_balance.png" alt="Load Balancing"/>
 </p>
 
-* **Database replication**
+* **Database Replication**
 	* Database replication is the frequent electronic copying data from a database in one computer or server to a database in another so that all users share the same level of information. The result is a distributed database in which users can access data relevant to their tasks without interfering with the work of others. The implementation of database replication for the purpose of eliminating data ambiguity or inconsistency among users is known as normalization.
 * **Database partitioning**
 	* Partitioning of relational data usually refers to decomposing your tables either row-wise (horizontally) or column-wise (vertically).
